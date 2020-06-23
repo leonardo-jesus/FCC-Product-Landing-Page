@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="./tribute-page.gif" alt="Tribute page">
+  <img src="./product-landing-page.gif" alt="Product Landing Page">
 </p>
 
 ## 🚀 Technologies
@@ -24,14 +24,15 @@ This project was developed with the following technologies:
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 - [Javascript](https://www.javascript.com/)
+- [GSAP](https://greensock.com/gsap/)
 
 ## 💻 Project
 
-The ***Tribute Page***,  is a webpage for honor *the Father of modern computer, ***Alan Turing***, made for the course [Responsive Web Design](https://www.freecodecamp.org/learn/), with **HTML**, **CSS** and **Javascript**.
+A **Product Landing Page**, about a Bookstore, made for the course [Responsive Web Design](https://www.freecodecamp.org/learn/), with **HTML**, **CSS** and **Javascript**.
 
 ## 🔖 Layout
 
-You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/WNQzPbp>).
+You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/QWyNqVM>).
 
 ## 🤔 How contribute
 
