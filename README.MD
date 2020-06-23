@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-A Product Landing Page, about a Bookstore, made for the course [Responsive Web Design](https://www.freecodecamp.org/learn/), with HTML, CSS and Javascript.
+A **Product Landing Page**, about a Bookstore, made for the course [Responsive Web Design](https://www.freecodecamp.org/learn/), with **HTML**, **CSS** and **Javascript**.
 
 ## 🔖 Layout
 
